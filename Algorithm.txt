@@ -1,0 +1,32 @@
+
+
+An algorithm is a set of steps to accomplish a task. Or an algorithm in a
+computer program in which a set of steps applied over a set of input to
+produce a set of output.
+
+The most important properties of an algorithm are:
+1. Correctness: The algorithm should be correct. It should be able to process
+all the given inputs and provide correct output.
+2.
+Efficiency: The algorithm should be efficient in solving problems.
+Efficiency is measured in two parameters. Firs is Time-Complexity, how
+fast result is provided by an algorithm. And the second is Space-
+Complexity, how much RAM that an algorithm is going to consume to give
+desired result.
+Time-Complexity is represented by function T(n) - time versus the input size n.
+Space-Complexity is represented by function S(n) - memory used versus the
+input size n.
+
+Complexity analysis of algorithms
+
+1. Worst Case complexity: It is the complexity of solving the problem for the
+			worst input of size n. It provides the upper bound for the algorithm. This is
+			the most common analysis done.
+2. Average Case complexity: It is the complexity of solving the problem on
+			an average. We calculate the time for all the possible inputs and then take an
+			average of it.
+3. Best Case complexity: It is the complexity of solving the problem for the
+			best input of size n.
+
+
+
